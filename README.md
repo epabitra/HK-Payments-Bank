@@ -1,7 +1,7 @@
 
 # HK Payments Bank
 
-It is simply a dummy Android application for demonstrate the Banking Application. 
+It is simply a Android application for demonstrate the Banking Application. 
 
 ### Technologies
 
