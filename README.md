@@ -9,7 +9,7 @@ It is simply a Android application for demonstrate the Banking Application.
 - Java
 - XML
 
-### Some Important pages
+### Some Important pages 
 
 
 ### Register Page
