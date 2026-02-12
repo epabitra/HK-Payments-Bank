@@ -5,7 +5,7 @@ It is simply a Android application for demonstrate the Banking Application.
 
 ### Technologies
 
-- Android Studio
+- Android Studio 
 - Java
 - XML
 
